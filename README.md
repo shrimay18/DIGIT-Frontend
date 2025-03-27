@@ -43,7 +43,7 @@ Install dependencies
 Add .env file
 
 ```bash
-    micro-ui/web/micro-ui-internals/example/.env
+   into micro-ui/web/micro-ui-internals/example/.env
 ```
 
 Start the server
